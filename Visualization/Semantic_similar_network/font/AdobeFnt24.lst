@@ -1,0 +1,562 @@
+%!Adobe-FontList 1.24
+%Locale:0x804
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow
+FamilyName:Arial
+StyleName:Narrow
+FullName:Arial Narrow
+MenuName:Arial Narrow
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\test\Semantic_similar_network\Font\ARIALN.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:175956
+FileModTime:1703304357
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Arial Narrow
+NameArray:0,Win,1,Arial Narrow
+NameArray:0,Win,16,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow-Bold
+FamilyName:Arial
+StyleName:Narrow Bold
+FullName:Arial Narrow Bold
+MenuName:Arial Narrow
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\test\Semantic_similar_network\Font\ARIALNB.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:180740
+FileModTime:1703304357
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Arial Narrow Bold
+NameArray:0,Win,1,Arial Narrow
+NameArray:0,Win,16,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow-BoldItalic
+FamilyName:Arial
+StyleName:Narrow Bold Italic
+FullName:Arial Narrow Bold Italic
+MenuName:Arial Narrow
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\test\Semantic_similar_network\Font\ARIALNBI.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:180084
+FileModTime:1703304357
+WeightClass:700
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Arial Narrow Bold Italic
+NameArray:0,Win,1,Arial Narrow
+NameArray:0,Win,16,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow-Italic
+FamilyName:Arial
+StyleName:Narrow Italic
+FullName:Arial Narrow Italic
+MenuName:Arial Narrow
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\test\Semantic_similar_network\Font\ARIALNI.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:181124
+FileModTime:1703304357
+WeightClass:400
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Arial Narrow Italic
+NameArray:0,Win,1,Arial Narrow
+NameArray:0,Win,16,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DengXian
+FamilyName:DengXian
+StyleName:Regular
+FullName:DengXian Regular
+MenuName:等线
+StyleBits:0
+FamilyNameNative:等线
+StyleNameNative:Regular
+FullNameNative:等线
+WritingScript:SimplifiedChinese
+OutlineFileName:E:\test\Semantic_similar_network\Font\Deng.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:16316468
+FileModTime:1703297912
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DengXian
+NameArray:25,Win,1,等线
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DengXian-Bold
+FamilyName:DengXian
+StyleName:Bold
+FullName:DengXian Bold
+MenuName:等线
+StyleBits:2
+FamilyNameNative:等线
+StyleNameNative:Bold
+FullNameNative:等线 Bold
+WritingScript:SimplifiedChinese
+OutlineFileName:E:\test\Semantic_similar_network\Font\Dengb.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:16443212
+FileModTime:1703297912
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DengXian
+NameArray:25,Win,1,等线
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DengXian-Light
+FamilyName:DengXian
+StyleName:Light
+FullName:DengXian Light
+MenuName:等线 Light
+StyleBits:0
+FamilyNameNative:等线
+StyleNameNative:Light
+FullNameNative:等线 Light
+WritingScript:SimplifiedChinese
+OutlineFileName:E:\test\Semantic_similar_network\Font\Dengl.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:15430284
+FileModTime:1703297912
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,DengXian Light
+NameArray:0,Win,16,DengXian
+NameArray:25,Win,1,等线 Light
+NameArray:25,Win,16,等线
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:YouYuan
+FamilyName:YouYuan
+StyleName:Regular
+FullName:YouYuan
+MenuName:幼圆
+StyleBits:0
+FamilyNameNative:幼圆
+StyleNameNative:Regular
+FullNameNative:幼圆
+WritingScript:SimplifiedChinese
+OutlineFileName:E:\test\Semantic_similar_network\Font\SIMYOU.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:6700204
+FileModTime:1703304353
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,YouYuan
+NameArray:0,Win,1,YouYuan
+NameArray:25,Win,1,幼圆
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\test\Semantic_similar_network\Font\arial.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1036584
+FileModTime:1575709706
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\test\Semantic_similar_network\Font\arialbd.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:980756
+FileModTime:1575709706
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldItalicMT
+FamilyName:Arial
+StyleName:Bold Italic
+FullName:Arial Bold Italic
+MenuName:Arial
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\test\Semantic_similar_network\Font\arialbi.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:721144
+FileModTime:1575709706
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Arial Bold Italic
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-ItalicMT
+FamilyName:Arial
+StyleName:Italic
+FullName:Arial Italic
+MenuName:Arial
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\test\Semantic_similar_network\Font\ariali.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:717428
+FileModTime:1575709706
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Arial Italic
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-Black
+FamilyName:Arial
+StyleName:Black
+FullName:Arial Black
+MenuName:Arial Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\test\Semantic_similar_network\Font\ariblk.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:167592
+FileModTime:1575709706
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Black
+NameArray:0,Win,1,Arial Black
+NameArray:0,Win,16,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FangSong
+FamilyName:FangSong
+StyleName:Regular
+FullName:FangSong
+MenuName:仿宋
+StyleBits:0
+FamilyNameNative:仿宋
+StyleNameNative:Regular
+FullNameNative:仿宋
+WritingScript:SimplifiedChinese
+OutlineFileName:E:\test\Semantic_similar_network\Font\simfang.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:10578152
+FileModTime:1571147160
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,FangSong
+NameArray:0,Win,1,FangSong
+NameArray:25,Win,1,仿宋
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SimHei
+FamilyName:SimHei
+StyleName:Regular
+FullName:SimHei
+MenuName:黑体
+StyleBits:0
+FamilyNameNative:黑体
+StyleNameNative:Regular
+FullNameNative:黑体
+WritingScript:SimplifiedChinese
+OutlineFileName:E:\test\Semantic_similar_network\Font\simhei.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:9753388
+FileModTime:1571147160
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,SimHei
+NameArray:25,Win,1,黑体
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MicrosoftYaHei
+FamilyName:Microsoft YaHei
+StyleName:Regular
+FullName:Microsoft YaHei
+MenuName:微软雅黑
+StyleBits:0
+FamilyNameNative:微软雅黑
+StyleNameNative:Regular
+FullNameNative:微软雅黑
+WritingScript:SimplifiedChinese
+OutlineFileName:E:\test\Semantic_similar_network\Font\msyh.ttc
+TTCOffset:32
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:19701556
+FileModTime:1703297805
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Microsoft YaHei
+NameArray:25,Win,1,微软雅黑
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MicrosoftYaHei-Bold
+FamilyName:Microsoft YaHei
+StyleName:Bold
+FullName:Microsoft YaHei Bold
+MenuName:微软雅黑
+StyleBits:2
+FamilyNameNative:微软雅黑
+StyleNameNative:Bold
+FullNameNative:微软雅黑 Bold
+WritingScript:SimplifiedChinese
+OutlineFileName:E:\test\Semantic_similar_network\Font\msyhbd.ttc
+TTCOffset:32
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:16880832
+FileModTime:1703297873
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Microsoft YaHei
+NameArray:25,Win,1,微软雅黑
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MicrosoftYaHeiLight
+FamilyName:Microsoft YaHei
+StyleName:Light
+FullName:Microsoft YaHei Light
+MenuName:微软雅黑 Light
+StyleBits:0
+FamilyNameNative:微软雅黑
+StyleNameNative:Light
+FullNameNative:微软雅黑 Light
+WritingScript:SimplifiedChinese
+OutlineFileName:E:\test\Semantic_similar_network\Font\msyhl.ttc
+TTCOffset:32
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:12183612
+FileModTime:1703297873
+WeightClass:290
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Microsoft YaHei Light
+NameArray:0,Win,16,Microsoft YaHei
+NameArray:25,Win,1,微软雅黑 Light
+NameArray:25,Win,16,微软雅黑
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MicrosoftYaHeiUI
+FamilyName:Microsoft YaHei UI
+StyleName:Regular
+FullName:Microsoft YaHei UI
+MenuName:Microsoft YaHei UI
+StyleBits:0
+FamilyNameNative:Microsoft YaHei UI
+StyleNameNative:Regular
+FullNameNative:Microsoft YaHei UI Regular
+WritingScript:SimplifiedChinese
+OutlineFileName:E:\test\Semantic_similar_network\Font\msyh.ttc
+TTCOffset:444
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:19701556
+FileModTime:1703297805
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Microsoft YaHei UI
+NameArray:25,Win,1,Microsoft YaHei UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MicrosoftYaHeiUI-Bold
+FamilyName:Microsoft YaHei UI
+StyleName:Bold
+FullName:Microsoft YaHei UI Bold
+MenuName:Microsoft YaHei UI
+StyleBits:2
+FamilyNameNative:Microsoft YaHei UI
+StyleNameNative:Bold
+FullNameNative:Microsoft YaHei UI Bold
+WritingScript:SimplifiedChinese
+OutlineFileName:E:\test\Semantic_similar_network\Font\msyhbd.ttc
+TTCOffset:444
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:16880832
+FileModTime:1703297873
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Microsoft YaHei UI
+NameArray:25,Win,1,Microsoft YaHei UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MicrosoftYaHeiUILight
+FamilyName:Microsoft YaHei UI
+StyleName:Light
+FullName:Microsoft YaHei UI Light
+MenuName:Microsoft YaHei UI Light
+StyleBits:0
+FamilyNameNative:Microsoft YaHei UI
+StyleNameNative:Light
+FullNameNative:Microsoft YaHei UI Light
+WritingScript:SimplifiedChinese
+OutlineFileName:E:\test\Semantic_similar_network\Font\msyhl.ttc
+TTCOffset:444
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:12183612
+FileModTime:1703297873
+WeightClass:290
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Microsoft YaHei UI Light
+NameArray:0,Win,16,Microsoft YaHei UI
+NameArray:25,Win,1,Microsoft YaHei UI Light
+NameArray:25,Win,16,Microsoft YaHei UI
+%EndFont
+
